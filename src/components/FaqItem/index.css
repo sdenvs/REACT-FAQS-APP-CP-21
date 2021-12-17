@@ -1,1 +1,8 @@
 /* Write your code here. */
+.listItem {
+  border-radius: 15px;
+}
+.image {
+  width: 20px;
+  height: 20px;
+}

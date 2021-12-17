@@ -1,1 +1,19 @@
 /* Write your code here. */
+* {
+  font-family: 'roboto';
+}
+.heading {
+  color: #cb8805;
+  font-size: 40px;
+  font-weight: bold;
+}
+.ulist {
+  list-style-type: none;
+  padding: 0px;
+  width: 80%;
+}
+@media (min-width: 768px) {
+  .heading {
+    font-size: 55px;
+  }
+}
